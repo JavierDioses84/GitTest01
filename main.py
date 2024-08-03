@@ -7,3 +7,5 @@ print(tx.eliminarDx())
 print("por agregar cambios en la rama exploracion")
 
 print("por agregar cambios en la rama tratamiento")
+
+print(tx.eliminarDx2())
