@@ -15,4 +15,6 @@ print(ed.correlacionImpares())
 
 print("Linea agregada")
 
-print("segunda linea agregada")
+print("segunda linea agregada numero 13")
+
+print("otra linea adicional")
