@@ -4,3 +4,6 @@ def correlacionPares():
 
 def correlacionImpares():
     return "funcion exploracion 2"
+
+def correlacionPares():
+    return "funcion exploracion 3"
