@@ -11,6 +11,7 @@ print(tx.eliminarDx2())
 
 print(ed.correlacionPares())
 
+
 print(ed.correlacionImpares())
 
 print("Linea agregada")
